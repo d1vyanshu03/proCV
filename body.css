@@ -1,0 +1,32 @@
+
+<style>
+body {
+  background-color: red;
+}
+body {
+  background-color: #F6DFEB;
+}
+
+hr{
+background-color: none;
+border-style:none;
+border-top-style:dotted;
+border-width: 10px;
+border-color: #03256C;
+height: 0px;
+width: 10%;
+}
+h3{
+  margin-left: 10px;
+  font-family: serif;
+  font-style: normal;
+  color: #03256C
+
+}
+h4{
+  font-family: serif;
+  margin-left: 10px;
+  color:#03256C
+
+}
+</style>
